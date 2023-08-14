@@ -1,4 +1,6 @@
-## Hello! My name is Pedro Cavalcante 👋
+<div style="display" display="inline_block">
+  <h1>Hello! My name is Pedro Cavalcante 👋 <img width="5%" align="center" alt="Brazil flag" src="https://em-content.zobj.net/thumbs/320/google/350/flag-brazil_1f1e7-1f1f7.png"/></h1>
+</div>
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSPFdVqCwHjfTljKxTnmhSrKVmmFbJpZXKDmGbPLWKPbdcflNCsQWfpHFCNdPXQhVTLSzMXw)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-cavalcante-ferreira-997509275/)
